@@ -10,6 +10,7 @@
 - Lab 6.1 (for module 7)  bagel_donut_main.csv
 - Lab 6.2 (for module 7) resdesign_did.csv
 - Lab 6.3 (for mulde 7) [incumbency advantage data](https://raw.githubusercontent.com/rdpackages/rdrobust/master/Python/rdrobust_senate.csv)
+  
 ## Homework 
 - Homework 1 data (retaildata)
 - Homework 2 data (clinicsales)
