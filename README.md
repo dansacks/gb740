@@ -2,15 +2,23 @@
 
 
 ## Labs
-- Lab 1 data [wellness_data](https://raw.githubusercontent.com/dansacks/gb740/main/wellness_data.csv)
-- Lab 2 [data (markdownexp)](https://raw.githubusercontent.com/dansacks/gb740/main/markdownexp.csv)
-- Lab 3 - see Canvas; data cannot be posted
-- Lab 4 data [lab4 data](https://raw.githubusercontent.com/dansacks/gb740/main/lab4_data.csv)
-- Lab 5 (for module 6) [dollaholla.csv](https://raw.githubusercontent.com/dansacks/gb740/main/dollaholla.csv)
+- Lab 1 data
+  - [wellness_data](https://raw.githubusercontent.com/dansacks/gb740/main/wellness_data.csv)
+  - [solution notebook](https://colab.research.google.com/drive/19q8IM0AWuUySwLBMmHVD0sI8DhSSw8w9)
+- Lab 2
+  - [data (markdownexp)](https://raw.githubusercontent.com/dansacks/gb740/main/markdownexp.csv)
+  - [solution notebook](https://colab.research.google.com/drive/1HNbJbvhD4cfajHQY3aKDRrDdGDu5stTc) 
+- Lab 3
+  - Data: see Canvas; data cannot be posted
+  - [Solutions](https://colab.research.google.com/drive/1aoizkC6QtcFmNbvAgAyEhXKGPVesjc3D)
+- Lab 4 
+  - [Data](https://raw.githubusercontent.com/dansacks/gb740/main/lab4_data.csv)
+- Lab 5 (for module 6):
+  - [Data (dollaholla)](https://raw.githubusercontent.com/dansacks/gb740/main/dollaholla.csv)
 - Lab 6 (for module 7)
-  - Part 1 [bagel_donut_main.csv](https://raw.githubusercontent.com/dansacks/gb740/main/bagel_donut_main.csv)
-  - Part 2 [resdesign_did.csv](https://raw.githubusercontent.com/dansacks/gb740/main/resdesign_did.csv)
-  - Part 3 [incumbency advantage data](https://raw.githubusercontent.com/rdpackages/rdrobust/master/Python/rdrobust_senate.csv)
+  - [Part 1 data (bagel_donut_main.csv)](https://raw.githubusercontent.com/dansacks/gb740/main/bagel_donut_main.csv)
+  - [Part 2 data (resdesign_did.csv)](https://raw.githubusercontent.com/dansacks/gb740/main/resdesign_did.csv)
+  - [Part 3 data (incumbency advantage data)](https://raw.githubusercontent.com/rdpackages/rdrobust/master/Python/rdrobust_senate.csv)
   
 ## Homework 
 - Homework 1 data [retaildata](https://raw.githubusercontent.com/dansacks/gb740/main/retaildata.csv)
