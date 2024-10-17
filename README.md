@@ -18,9 +18,9 @@
 - Lab 5 (for module 6):
   - [Data (dollaholla)](https://raw.githubusercontent.com/dansacks/gb740/main/dollaholla.csv)
 - Lab 6 (for module 7)
-  - [Part 1 data (bagel_donut_main.csv)](https://raw.githubusercontent.com/dansacks/gb740/main/bagel_donut_main.csv)
+  - [Part 1 data (bagel_donut_main.csv)](https://raw.githubusercontent.com/dansacks/gb740/main/bagel_donut_main.csv) (Source: [Levitt 2006](https://www.nber.org/papers/w12152).)
   - [Part 2 data (resdesign_did.csv)](https://raw.githubusercontent.com/dansacks/gb740/main/resdesign_did.csv)
-  - [Part 3 data (incumbency advantage data)](https://raw.githubusercontent.com/rdpackages/rdrobust/master/Python/rdrobust_senate.csv)
+  - [Part 3 data (incumbency advantage data)](https://raw.githubusercontent.com/rdpackages/rdrobust/master/Python/rdrobust_senate.csv) (Source: rdrobust packages).
   
 ## Homework 
 - Homework 1 data [retaildata](https://raw.githubusercontent.com/dansacks/gb740/main/retaildata.csv)
