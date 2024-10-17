@@ -7,6 +7,7 @@
   - [solution notebook](https://colab.research.google.com/drive/19q8IM0AWuUySwLBMmHVD0sI8DhSSw8w9)
 - Lab 2
   - [data (markdownexp)](https://raw.githubusercontent.com/dansacks/gb740/main/markdownexp.csv)
+  - [prompt (notebooked)](https://colab.research.google.com/drive/1X6RsFcXOGPLPomB6iWXJmPbACCKp0RiM)
   - [solution notebook](https://colab.research.google.com/drive/1HNbJbvhD4cfajHQY3aKDRrDdGDu5stTc) 
 - Lab 3
   - Data: see Canvas; data cannot be posted
