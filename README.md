@@ -1,4 +1,4 @@
-# Data for GB 740 
+# Material for GB 740 
 
 
 ## Labs
