@@ -17,6 +17,7 @@
 - Lab 4 
   - [Prompt](https://colab.research.google.com/drive/1S-wa1D5mnQV_ruzeqDQ_QR7pIJW1c_k6?usp=sharing)
   - [Data](https://raw.githubusercontent.com/dansacks/gb740/main/lab4_data.csv)
+  - [Solutions](https://colab.research.google.com/drive/1C-BALAt60udgfzOpFaq2oWQ4n7O1hmpy)
 - Lab 5 (for module 6):
   - [Data (dollaholla)](https://raw.githubusercontent.com/dansacks/gb740/main/dollaholla.csv)
 - Lab 6 (for module 7)
