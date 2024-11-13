@@ -12,7 +12,7 @@
   - [solution notebook](https://colab.research.google.com/drive/1HNbJbvhD4cfajHQY3aKDRrDdGDu5stTc) 
 - Lab 3
   - Data: see Canvas; data cannot be posted
-  - [Prrompt](https://colab.research.google.com/drive/1Hl5vhyi-s9womluj5wDI43vTq44DhT_-?usp=sharing)
+  - [Prompt](https://colab.research.google.com/drive/1Hl5vhyi-s9womluj5wDI43vTq44DhT_-?usp=sharing)
   - [Solutions](https://colab.research.google.com/drive/1aoizkC6QtcFmNbvAgAyEhXKGPVesjc3D)
 - Lab 4 
   - [Prompt](https://colab.research.google.com/drive/1S-wa1D5mnQV_ruzeqDQ_QR7pIJW1c_k6?usp=sharing)
@@ -20,6 +20,9 @@
   - [Solutions](https://colab.research.google.com/drive/1C-BALAt60udgfzOpFaq2oWQ4n7O1hmpy)
 - Lab 5 (for module 6):
   - [Data (dollaholla)](https://raw.githubusercontent.com/dansacks/gb740/main/dollaholla.csv)
+  - [Prompt (dollaholla)](https://PROMPT5)
+  - [Solutions (dollaholla)](https://SOLUTION5)
+  - [Code (active zone)](https://colab.research.google.com/drive/1qhSkrAplZjzWoGYB0vcPbqVPrEWJW-Xn?usp=sharing)
 - Lab 6 (for module 7)
   - [Part 1 data (bagel_donut_main.csv)](https://raw.githubusercontent.com/dansacks/gb740/main/bagel_donut_main.csv) (Source: [Levitt 2006](https://www.nber.org/papers/w12152).)
   - [Part 2 data (resdesign_did.csv)](https://raw.githubusercontent.com/dansacks/gb740/main/resdesign_did.csv)
