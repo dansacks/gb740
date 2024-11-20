@@ -28,6 +28,8 @@
   - [Part 1 prompt](https://colab.research.google.com/drive/1UIQb7DBn6L1OB_pt2hLPhKLwYOpyxzqT?usp=sharing)
   - [Part 1 solutions](https://colab.research.google.com/drive/16T0hdlPT6FPw5HyndPIMn1bchq4CH1o-#)
   - [Part 2 data (resdesign_did.csv)](https://raw.githubusercontent.com/dansacks/gb740/main/redesign_did.csv)
+  - [Part 2 prompt](https://colab.research.google.com/drive/1URvCk9zthaDlp4E00mflzIcZEVMG1D9P?usp=sharing)
+  - [Part 2 solutions](https://colab.research.google.com/drive/1y3hFMZdCzZr7b8cSGQ5shaMqwd6WNcok?usp=sharing)
   - [Part 3 data (incumbency advantage data)](https://raw.githubusercontent.com/rdpackages/rdrobust/master/Python/rdrobust_senate.csv) (Source: rdrobust packages).
   
 ## Homework 
