@@ -27,7 +27,7 @@
   - [Part 1 data (bagel_donut_main.csv)](https://raw.githubusercontent.com/dansacks/gb740/main/bagel_donut_main.csv) (Source: [Levitt 2006](https://www.nber.org/papers/w12152).)
   - [Part 1 prompt](https://colab.research.google.com/drive/1UIQb7DBn6L1OB_pt2hLPhKLwYOpyxzqT?usp=sharing)
   - [Part 1 solutions](https://colab.research.google.com/drive/16T0hdlPT6FPw5HyndPIMn1bchq4CH1o-#)
-  - [Part 2 data (resdesign_did.csv)](https://raw.githubusercontent.com/dansacks/gb740/main/resdesign_did.csv)
+  - [Part 2 data (resdesign_did.csv)](https://raw.githubusercontent.com/dansacks/gb740/main/redesign_did.csv)
   - [Part 3 data (incumbency advantage data)](https://raw.githubusercontent.com/rdpackages/rdrobust/master/Python/rdrobust_senate.csv) (Source: rdrobust packages).
   
 ## Homework 
