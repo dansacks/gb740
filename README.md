@@ -42,3 +42,7 @@
   - Part 1 [RatingData.csv](https://raw.githubusercontent.com/dansacks/gb740/main/RatingData.csv),
   - part 2 [tips.csv](https://raw.githubusercontent.com/dansacks/gb740/main/tips.csv)
   - The tip data are from [Haggan and Paci (2016)](https://www.aeaweb.org/articles?id=10.1257/app.6.3.1)
+ 
+
+## Practice final data 
+ - [Test ABCD data](https://raw.githubusercontent.com/dansacks/gb740/main/test_abcd.csv)
