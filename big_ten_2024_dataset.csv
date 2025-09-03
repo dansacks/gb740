@@ -1,0 +1,234 @@
+team,opponent,date,team_score,opponent_score,conference_game,distance_miles,time_zone_delta,team_preseason_rank,opponent_preseason_rank,location
+Illinois,Eastern Illinois,8/29/2024,45,0,FALSE,0,0,0,0,home
+Illinois,Kansas,9/7/2024,23,17,FALSE,0,0,0,0,home
+Illinois,Central Michigan,9/14/2024,30,9,FALSE,0,0,0,0,home
+Illinois,Nebraska,9/20/2024,31,24,TRUE,447.9,0,0,0,away
+Illinois,Penn State,9/28/2024,7,21,TRUE,547.5,1,0,8,away
+Illinois,Purdue,10/12/2024,50,49,TRUE,0,0,0,0,home
+Illinois,Michigan,10/19/2024,21,7,TRUE,0,0,0,9,home
+Illinois,Oregon,10/26/2024,9,38,TRUE,1793.5,2,0,3,away
+Illinois,Minnesota,11/2/2024,17,25,TRUE,0,0,0,0,home
+Illinois,Michigan State,11/16/2024,38,16,TRUE,0,0,0,0,home
+Illinois,Rutgers,11/23/2024,38,31,TRUE,725.4,1,0,0,away
+Illinois,Northwestern,11/30/2024,38,28,TRUE,138.2,0,0,0,away
+Illinois,South Carolina,12/31/2024,21,17,FALSE,0,0,0,0,neutral
+Indiana,Florida International,8/31/2024,31,7,FALSE,0,0,0,0,home
+Indiana,Western Illinois,9/6/2024,77,3,FALSE,0,0,0,0,home
+Indiana,UCLA,9/14/2024,42,13,TRUE,1778.2,3,0,0,away
+Indiana,Charlotte,9/21/2024,52,14,FALSE,0,0,0,0,home
+Indiana,Maryland,9/28/2024,42,28,TRUE,0,0,0,0,home
+Indiana,Northwestern,10/5/2024,41,24,TRUE,208.6,1,0,0,away
+Indiana,Nebraska,10/19/2024,56,7,TRUE,0,0,0,0,home
+Indiana,Washington,10/26/2024,31,17,TRUE,0,0,0,0,home
+Indiana,Ohio State,11/9/2024,15,38,TRUE,195.3,0,0,2,away
+Indiana,Michigan State,11/16/2024,47,10,TRUE,268.6,0,0,0,away
+Indiana,Michigan,11/23/2024,20,15,TRUE,0,0,0,9,home
+Indiana,Purdue,11/30/2024,66,0,TRUE,0,0,0,0,home
+Iowa,Illinois State,8/31/2024,40,0,FALSE,0,0,25,0,home
+Iowa,Iowa State,9/7/2024,19,20,FALSE,0,0,25,0,home
+Iowa,Troy,9/14/2024,38,21,FALSE,0,0,25,0,home
+Iowa,Minnesota,9/21/2024,31,14,TRUE,244.1,0,25,0,away
+Iowa,Ohio State,10/5/2024,7,35,TRUE,460.3,1,25,2,away
+Iowa,Washington,10/12/2024,40,16,TRUE,0,0,25,0,home
+Iowa,Michigan State,10/19/2024,20,32,TRUE,369.2,1,25,0,away
+Iowa,Northwestern,10/26/2024,40,14,TRUE,0,0,25,0,home
+Iowa,Wisconsin,11/2/2024,42,10,TRUE,0,0,25,0,home
+Iowa,UCLA,11/8/2024,17,20,TRUE,1533.1,2,25,0,away
+Iowa,Maryland,11/23/2024,29,13,TRUE,790.5,1,25,0,away
+Iowa,Nebraska,11/29/2024,13,10,TRUE,0,0,25,0,home
+Iowa,Missouri,12/30/2024,24,27,FALSE,0,0,25,0,neutral
+Maryland,UConn,8/31/2024,38,14,FALSE,0,0,0,0,home
+Maryland,Virginia,9/7/2024,36,35,FALSE,0,0,0,0,away
+Maryland,Villanova,9/14/2024,62,7,FALSE,0,0,0,0,home
+Maryland,Michigan,9/28/2024,3,24,TRUE,422.6,0,0,9,away
+Maryland,Rutgers,10/5/2024,23,20,TRUE,0,0,0,0,home
+Maryland,Northwestern,10/11/2024,10,37,TRUE,0,0,0,0,home
+Maryland,USC,10/19/2024,12,28,TRUE,2302.3,3,0,23,away
+Maryland,Minnesota,10/26/2024,23,48,TRUE,930.9,1,0,0,away
+Maryland,Penn State,11/9/2024,7,44,TRUE,0,0,0,8,home
+Maryland,Ohio State,11/16/2024,14,62,TRUE,0,0,0,2,home
+Maryland,Oregon,11/23/2024,18,39,TRUE,2380.3,3,0,3,away
+Maryland,Michigan State,11/30/2024,20,38,TRUE,0,0,0,0,home
+Michigan,Fresno State,8/31/2024,30,10,FALSE,0,0,9,0,home
+Michigan,Texas,9/7/2024,12,31,FALSE,0,0,9,0,home
+Michigan,Arkansas State,9/14/2024,28,18,FALSE,0,0,9,0,home
+Michigan,USC,9/21/2024,27,24,TRUE,0,0,9,23,home
+Michigan,Minnesota,9/28/2024,27,24,TRUE,0,0,9,0,home
+Michigan,Washington,10/5/2024,17,27,TRUE,1900.8,3,9,0,away
+Michigan,Illinois,10/19/2024,7,21,TRUE,277,1,9,0,away
+Michigan,Michigan State,10/26/2024,24,17,TRUE,0,0,9,0,home
+Michigan,Oregon,11/2/2024,17,38,TRUE,0,0,9,3,home
+Michigan,Indiana,11/9/2024,15,20,TRUE,258.8,0,9,0,away
+Michigan,Northwestern,11/23/2024,50,6,TRUE,0,0,9,0,home
+Michigan,Ohio State,11/30/2024,13,10,TRUE,161,0,9,2,away
+Michigan,Alabama,12/31/2024,19,13,FALSE,0,0,9,0,neutral
+Michigan State,Florida Atlantic,8/31/2024,35,12,FALSE,0,0,0,0,home
+Michigan State,Maryland,9/7/2024,3,24,TRUE,0,0,0,0,home
+Michigan State,Boston College,9/14/2024,24,16,FALSE,0,0,0,0,home
+Michigan State,Boston College,9/20/2024,16,24,FALSE,0,0,0,0,away
+Michigan State,Ohio State,9/28/2024,7,38,TRUE,0,0,0,2,home
+Michigan State,Oregon,10/4/2024,10,31,TRUE,1921.5,3,0,3,away
+Michigan State,Washington,10/12/2024,42,35,TRUE,0,0,0,0,home
+Michigan State,Rutgers,10/19/2024,14,41,TRUE,0,0,0,0,home
+Michigan State,Indiana,10/26/2024,20,41,TRUE,0,0,0,0,home
+Michigan State,Illinois,11/16/2024,16,38,TRUE,266.2,1,0,0,away
+Michigan State,Maryland,11/30/2024,38,20,TRUE,471.4,0,0,0,away
+Michigan State,Rutgers,11/30/2024,14,41,TRUE,0,0,0,0,home
+Minnesota,North Carolina,8/29/2024,17,19,FALSE,0,0,0,0,home
+Minnesota,Rhode Island,9/7/2024,48,0,FALSE,0,0,0,0,home
+Minnesota,Nevada,9/14/2024,27,0,FALSE,0,0,0,0,home
+Minnesota,Iowa,9/21/2024,14,31,TRUE,0,0,0,25,home
+Minnesota,Michigan,9/28/2024,24,27,TRUE,509.3,1,0,9,away
+Minnesota,USC,10/5/2024,24,17,TRUE,0,0,0,23,home
+Minnesota,UCLA,10/12/2024,21,17,TRUE,1515,2,0,0,away
+Minnesota,Maryland,10/26/2024,23,48,TRUE,0,0,0,0,home
+Minnesota,Illinois,11/2/2024,25,17,TRUE,421.6,0,0,0,away
+Minnesota,Rutgers,11/9/2024,23,26,TRUE,998,1,0,0,away
+Minnesota,Penn State,11/23/2024,25,26,TRUE,0,0,0,8,home
+Minnesota,Wisconsin,11/29/2024,24,7,TRUE,230.7,0,0,0,away
+Nebraska,UTEP,8/31/2024,40,7,FALSE,0,0,0,0,home
+Nebraska,Colorado,9/7/2024,28,10,FALSE,0,0,0,0,home
+Nebraska,Northern Iowa,9/14/2024,34,3,FALSE,0,0,0,0,home
+Nebraska,Illinois,9/20/2024,24,31,TRUE,0,0,0,0,home
+Nebraska,Purdue,9/28/2024,28,10,TRUE,513.9,1,0,0,away
+Nebraska,Rutgers,10/5/2024,14,7,TRUE,0,0,0,0,home
+Nebraska,Indiana,10/19/2024,7,56,TRUE,550.7,1,0,0,away
+Nebraska,Ohio State,10/26/2024,17,21,TRUE,721.5,1,0,2,away
+Nebraska,UCLA,11/2/2024,20,27,TRUE,0,0,0,0,home
+Nebraska,USC,11/16/2024,20,28,TRUE,1270.1,2,0,23,away
+Nebraska,Wisconsin,11/23/2024,44,25,TRUE,0,0,0,0,home
+Nebraska,Iowa,11/29/2024,10,13,TRUE,273.9,0,0,25,away
+Nebraska,Boston College,12/28/2024,20,15,FALSE,0,0,0,0,neutral
+Northwestern,Miami (OH),8/31/2024,13,6,FALSE,0,0,0,0,home
+Northwestern,Duke,9/6/2024,20,26,FALSE,0,0,0,0,home
+Northwestern,Eastern Illinois,9/14/2024,31,7,FALSE,0,0,0,0,home
+Northwestern,Washington,9/21/2024,5,24,TRUE,1724.4,2,0,0,away
+Northwestern,Indiana,10/5/2024,24,41,TRUE,0,0,0,0,home
+Northwestern,Maryland,10/11/2024,37,10,TRUE,601.7,1,0,0,away
+Northwestern,Wisconsin,10/19/2024,3,23,TRUE,0,0,0,0,home
+Northwestern,Iowa,10/26/2024,14,40,TRUE,201.5,0,0,25,away
+Northwestern,Purdue,11/2/2024,26,20,TRUE,118.1,1,0,0,away
+Northwestern,Ohio State,11/16/2024,7,31,TRUE,0,0,0,2,home
+Northwestern,Michigan,11/23/2024,6,50,TRUE,201.5,1,0,9,away
+Northwestern,Illinois,11/30/2024,28,38,TRUE,0,0,0,0,home
+Ohio State,Akron,8/31/2024,52,6,FALSE,0,0,2,0,home
+Ohio State,Western Michigan,9/7/2024,56,0,FALSE,0,0,2,0,home
+Ohio State,Marshall,9/21/2024,49,14,FALSE,0,0,2,0,home
+Ohio State,Michigan State,9/28/2024,38,7,TRUE,203.6,0,2,0,away
+Ohio State,Iowa,10/5/2024,35,7,TRUE,0,0,2,25,home
+Ohio State,Oregon,10/12/2024,31,32,TRUE,2054,3,2,3,away
+Ohio State,Nebraska,10/26/2024,21,17,TRUE,0,0,2,0,home
+Ohio State,Penn State,11/2/2024,20,13,TRUE,277.3,0,2,8,away
+Ohio State,Purdue,11/9/2024,45,0,TRUE,0,0,2,0,home
+Ohio State,Northwestern,11/16/2024,31,7,TRUE,280.9,1,2,0,away
+Ohio State,Indiana,11/23/2024,38,15,TRUE,0,0,2,0,home
+Ohio State,Michigan,11/30/2024,10,13,TRUE,0,0,2,9,home
+Ohio State,Tennessee,12/21/2024,42,17,FALSE,0,0,2,0,neutral
+Ohio State,Oregon,1/1/2025,21,41,TRUE,0,0,2,3,neutral
+Ohio State,Texas,1/10/2025,28,14,FALSE,0,0,2,0,neutral
+Ohio State,Notre Dame,1/20/2025,34,23,FALSE,0,0,2,0,neutral
+Penn State,West Virginia,8/31/2024,34,12,FALSE,0,0,8,0,away
+Penn State,Bowling Green,9/7/2024,34,27,FALSE,0,0,8,0,home
+Penn State,Kent State,9/21/2024,56,0,FALSE,0,0,8,0,home
+Penn State,Illinois,9/28/2024,21,7,TRUE,0,0,8,0,home
+Penn State,UCLA,10/5/2024,27,11,TRUE,0,0,8,0,home
+Penn State,USC,10/12/2024,33,30,TRUE,2247.4,3,8,23,away
+Penn State,Wisconsin,10/26/2024,28,13,TRUE,613.5,1,8,0,away
+Penn State,Ohio State,11/2/2024,13,20,TRUE,0,0,8,2,home
+Penn State,Washington,11/9/2024,35,6,TRUE,0,0,8,0,home
+Penn State,Purdue,11/16/2024,49,10,TRUE,0,0,8,0,home
+Penn State,Minnesota,11/23/2024,26,25,TRUE,827.9,1,8,0,away
+Penn State,Maryland,11/30/2024,44,7,TRUE,0,0,8,0,home
+Penn State,Oregon,12/7/2024,37,45,TRUE,0,0,8,3,neutral
+Penn State,SMU,12/21/2024,38,10,FALSE,0,0,8,0,neutral
+Penn State,Boise State,12/31/2024,31,14,FALSE,0,0,8,0,neutral
+Penn State,Notre Dame,1/9/2025,24,27,FALSE,0,0,8,0,neutral
+Purdue,Indiana State,8/31/2024,49,0,FALSE,0,0,0,0,home
+Purdue,Notre Dame,9/14/2024,7,66,FALSE,0,0,0,0,home
+Purdue,Oregon State,9/21/2024,21,38,FALSE,0,0,0,0,away
+Purdue,Nebraska,9/28/2024,10,28,TRUE,0,0,0,0,home
+Purdue,Wisconsin,10/5/2024,6,52,TRUE,222.5,1,0,0,away
+Purdue,Illinois,10/12/2024,49,50,TRUE,73.7,1,0,0,away
+Purdue,Oregon,10/18/2024,0,35,TRUE,0,0,0,3,home
+Purdue,Northwestern,11/2/2024,20,26,TRUE,0,0,0,0,home
+Purdue,Ohio State,11/9/2024,0,45,TRUE,207.6,0,0,2,away
+Purdue,Penn State,11/16/2024,10,49,TRUE,0,0,0,8,home
+Purdue,Michigan State,11/22/2024,17,24,TRUE,202,0,0,0,away
+Purdue,Indiana,11/30/2024,0,66,TRUE,90.8,0,0,0,away
+Rutgers,Howard,8/29/2024,44,7,FALSE,0,0,0,0,home
+Rutgers,Akron,9/7/2024,49,17,FALSE,0,0,0,0,home
+Rutgers,Virginia Tech,9/21/2024,26,23,FALSE,0,0,0,0,away
+Rutgers,Washington,9/27/2024,18,21,TRUE,0,0,0,0,home
+Rutgers,Nebraska,10/5/2024,7,14,TRUE,1162.7,1,0,0,away
+Rutgers,Wisconsin,10/12/2024,7,42,TRUE,0,0,0,0,home
+Rutgers,UCLA,10/19/2024,32,35,TRUE,0,0,0,0,home
+Rutgers,USC,10/25/2024,20,42,TRUE,2425.9,3,0,23,away
+Rutgers,Minnesota,11/9/2024,26,19,TRUE,0,0,0,0,home
+Rutgers,Maryland,11/16/2024,31,17,TRUE,168.4,0,0,0,away
+Rutgers,Illinois,11/23/2024,31,38,TRUE,0,0,0,0,home
+Rutgers,Michigan State,11/30/2024,41,14,TRUE,539.5,0,0,0,away
+Rutgers,Kansas State,12/26/2024,41,44,FALSE,0,0,0,0,neutral
+Wisconsin,Western Michigan,8/30/2024,28,14,FALSE,0,0,0,0,home
+Wisconsin,South Dakota,9/7/2024,27,13,FALSE,0,0,0,0,home
+Wisconsin,Alabama,9/14/2024,10,42,FALSE,0,0,0,0,away
+Wisconsin,USC,9/28/2024,21,38,TRUE,1670.8,2,0,23,away
+Wisconsin,Purdue,10/5/2024,52,6,TRUE,0,0,0,0,home
+Wisconsin,Rutgers,10/12/2024,42,7,TRUE,788.9,1,0,0,away
+Wisconsin,Northwestern,10/19/2024,23,3,TRUE,0,0,0,0,home
+Wisconsin,Penn State,10/26/2024,13,28,TRUE,0,0,0,8,home
+Wisconsin,Iowa,11/2/2024,10,42,TRUE,146.4,0,0,25,away
+Wisconsin,Oregon,11/16/2024,13,16,TRUE,1674.7,2,0,3,away
+Wisconsin,Nebraska,11/23/2024,25,44,TRUE,0,0,0,0,home
+Wisconsin,Minnesota,11/29/2024,7,24,TRUE,230.7,0,0,0,away
+Oregon,Idaho,8/31/2024,24,14,FALSE,0,0,3,0,home
+Oregon,Boise State,9/7/2024,37,34,FALSE,0,0,3,0,home
+Oregon,Oregon State,9/14/2024,49,14,FALSE,0,0,3,0,away
+Oregon,UCLA,9/28/2024,34,13,TRUE,732.2,0,3,0,away
+Oregon,Michigan State,10/4/2024,31,10,TRUE,0,0,3,0,home
+Oregon,Ohio State,10/12/2024,32,31,TRUE,0,0,3,2,home
+Oregon,Purdue,10/18/2024,35,0,TRUE,1850.9,3,3,0,away
+Oregon,Illinois,10/26/2024,38,9,TRUE,0,0,3,0,home
+Oregon,Michigan,11/2/2024,38,17,TRUE,1966.7,3,3,9,away
+Oregon,Maryland,11/9/2024,39,18,TRUE,0,0,3,0,home
+Oregon,Wisconsin,11/16/2024,16,13,TRUE,1674.7,2,3,0,away
+Oregon,Washington,11/30/2024,49,21,TRUE,0,0,3,0,home
+Oregon,Penn State,12/7/2024,45,37,TRUE,0,0,3,8,neutral
+Oregon,Ohio State,1/1/2025,41,21,TRUE,0,0,3,2,neutral
+UCLA,Hawaiʻi,8/31/2024,16,13,FALSE,0,0,0,0,away
+UCLA,Indiana,9/14/2024,13,42,TRUE,0,0,0,0,home
+UCLA,LSU,9/21/2024,17,34,FALSE,0,0,0,0,away
+UCLA,Oregon,9/28/2024,13,34,TRUE,0,0,0,3,home
+UCLA,Penn State,10/5/2024,11,27,TRUE,2236.9,3,0,8,away
+UCLA,Minnesota,10/12/2024,17,21,TRUE,0,0,0,0,home
+UCLA,Rutgers,10/19/2024,35,32,TRUE,2415.4,3,0,0,away
+UCLA,Nebraska,11/2/2024,27,20,TRUE,1259.2,2,0,0,away
+UCLA,Iowa,11/8/2024,17,20,TRUE,0,0,0,25,home
+UCLA,Washington,11/15/2024,19,31,TRUE,956.3,0,0,0,away
+UCLA,USC,11/23/2024,13,19,TRUE,0,0,0,23,home
+UCLA,Fresno State,11/30/2024,20,13,FALSE,0,0,0,0,home
+USC,LSU,9/1/2024,27,20,FALSE,0,0,23,0,neutral
+USC,Utah State,9/7/2024,48,0,FALSE,0,0,23,0,home
+USC,Michigan,9/21/2024,24,27,TRUE,1946.6,3,23,9,away
+USC,Wisconsin,9/28/2024,38,21,TRUE,0,0,23,0,home
+USC,Minnesota,10/5/2024,17,24,TRUE,1526.7,2,23,0,away
+USC,Penn State,10/12/2024,30,33,TRUE,0,0,23,8,home
+USC,Maryland,10/19/2024,28,29,TRUE,2302.3,3,23,0,away
+USC,Rutgers,10/25/2024,42,20,TRUE,0,0,23,0,home
+USC,Washington,11/2/2024,21,26,TRUE,964.9,0,23,0,away
+USC,Nebraska,11/16/2024,28,20,TRUE,0,0,23,0,home
+USC,UCLA,11/23/2024,19,13,TRUE,12.3,0,23,0,away
+USC,Notre Dame,11/30/2024,35,49,FALSE,0,0,23,0,home
+USC,Texas A&M,12/27/2024,35,31,FALSE,0,0,23,0,neutral
+Washington,Weber State,8/31/2024,35,3,FALSE,0,0,0,0,home
+Washington,Eastern Michigan,9/7/2024,30,9,FALSE,0,0,0,0,home
+Washington,Washington State,9/14/2024,19,24,FALSE,0,0,0,0,neutral
+Washington,Northwestern,9/21/2024,24,5,TRUE,0,0,0,0,home
+Washington,Rutgers,9/27/2024,21,18,TRUE,0,0,0,0,home
+Washington,Michigan,10/5/2024,27,17,TRUE,0,0,0,9,home
+Washington,Iowa,10/12/2024,40,16,TRUE,0,0,0,25,home
+Washington,Indiana,10/26/2024,31,17,TRUE,1870.1,3,0,0,away
+Washington,USC,11/2/2024,26,21,TRUE,0,0,0,23,home
+Washington,Penn State,11/9/2024,6,35,TRUE,2218.6,3,0,8,away
+Washington,UCLA,11/15/2024,31,19,TRUE,0,0,0,0,home
+Washington,Oregon,11/30/2024,21,49,TRUE,250.9,0,0,3,away
+Washington,Louisville,12/31/2024,34,35,FALSE,0,0,0,0,neutral
