@@ -5,7 +5,7 @@
 - Lab 1 data
   - [prompt (notebook)](https://colab.research.google.com/drive/1yw5J_Hv2Lpr0kGubjhAgg_uQn8ZtqO0e?usp=sharing)
   - [Football score data](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/big_ten_2024_dataset.csv)
-  - [solution notebook]
+  - [solution notebook](https://colab.research.google.com/drive/1mTzYlXDT0Zwv8N-QuoAYX5Mhn78YYaxt?usp=sharing) 
 - Lab 2
   - [data (markdownexp)](https://raw.githubusercontent.com/dansacks/gb740/main/markdownexp.csv)
   - [prompt (notebook)](https://colab.research.google.com/drive/1X6RsFcXOGPLPomB6iWXJmPbACCKp0RiM)
