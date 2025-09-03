@@ -3,9 +3,9 @@
 
 ## Labs
 - Lab 1 data
-  - [prompt (notebook)](https://colab.research.google.com/drive/11vIMprudKvWfWDCus4jZFPWRRn9Ykw4w?usp=sharing)
-  - [wellness_data](https://raw.githubusercontent.com/dansacks/gb740/main/wellness_data.csv)
-  - [solution notebook](https://colab.research.google.com/drive/19q8IM0AWuUySwLBMmHVD0sI8DhSSw8w9)
+  - [prompt (notebook)](https://colab.research.google.com/drive/1yw5J_Hv2Lpr0kGubjhAgg_uQn8ZtqO0e?usp=sharing)
+  - [wellness_data]
+  - [solution notebook]
 - Lab 2
   - [data (markdownexp)](https://raw.githubusercontent.com/dansacks/gb740/main/markdownexp.csv)
   - [prompt (notebook)](https://colab.research.google.com/drive/1X6RsFcXOGPLPomB6iWXJmPbACCKp0RiM)
