@@ -2,14 +2,14 @@
 
 
 ## Labs
-- Lab 1 data
+- Lab 1
   - [prompt (notebook)](https://colab.research.google.com/drive/1yw5J_Hv2Lpr0kGubjhAgg_uQn8ZtqO0e?usp=sharing)
   - [Football score data](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/big_ten_2024_dataset.csv)
   - [solution notebook](https://colab.research.google.com/drive/1mTzYlXDT0Zwv8N-QuoAYX5Mhn78YYaxt?usp=sharing) 
 - Lab 2
-  - [data (markdownexp)](https://raw.githubusercontent.com/dansacks/gb740/main/markdownexp.csv)
-  - [prompt (notebook)](https://colab.research.google.com/drive/1X6RsFcXOGPLPomB6iWXJmPbACCKp0RiM)
-  - [solution notebook](https://colab.research.google.com/drive/1HNbJbvhD4cfajHQY3aKDRrDdGDu5stTc) 
+  - Data: See Canvas; data cannot be posted.
+  - [prompt (notebook)](https://colab.research.google.com/drive/1sRlMUYSxeqtuLcaBzRtvDKXJu_bdmOMC)
+  - [solution notebook](https://colab.research.google.com/drive/1uV2PLZ3FyR5g-Q5b5BPHMZXQtOnSM6N8) 
 - Lab 3
   - Data: see Canvas; data cannot be posted
   - [Prompt](https://colab.research.google.com/drive/1Hl5vhyi-s9womluj5wDI43vTq44DhT_-?usp=sharing)
@@ -37,7 +37,7 @@
 ## Homework 
 - Homework 1 data [retaildata](https://raw.githubusercontent.com/dansacks/gb740/main/retaildata.csv)
 - Homework 2 data [clinicsales](https://raw.githubusercontent.com/dansacks/gb740/main/clinicsales.csv)
-- Homework 3 - see Canvas; data cannot be posted
+- Homework 3 - See Canvas; data cannot be posted
 - Homework 4 data [upworthy questions](https://raw.githubusercontent.com/dansacks/gb740/main/upworthy_questions.csv)
 - Homework 5 data [wfh.csv](https://raw.githubusercontent.com/dansacks/gb740/main/wfh.csv)
 - Homework 6
