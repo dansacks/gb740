@@ -9,7 +9,7 @@
 - Lab 2
   - Data: See Canvas; data cannot be posted.
   - [prompt (notebook)](https://colab.research.google.com/drive/1sRlMUYSxeqtuLcaBzRtvDKXJu_bdmOMC)
-  - [solution notebook](https://colab.research.google.com/drive/1uV2PLZ3FyR5g-Q5b5BPHMZXQtOnSM6N8) 
+  - [solution notebook](https://colab.research.google.com/drive/1L4VUGIm1lnVgSsoS8QrWKFY4pWyHuzdV) 
 - Lab 3
   - Data: see Canvas; data cannot be posted
   - [Prompt](https://colab.research.google.com/drive/1Hl5vhyi-s9womluj5wDI43vTq44DhT_-?usp=sharing)
