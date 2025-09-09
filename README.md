@@ -12,7 +12,7 @@
   - [solution notebook](https://colab.research.google.com/drive/1L4VUGIm1lnVgSsoS8QrWKFY4pWyHuzdV) 
 - Lab 3
   - Data: see Canvas; data cannot be posted
-  - [Prompt](https://colab.research.google.com/drive/1Hl5vhyi-s9womluj5wDI43vTq44DhT_-?usp=sharing)
+  - [Prompt](https://colab.research.google.com/drive/1Hl5vhyi-s9womluj5wDI43vTq44DhT_-#scrollTo=qNtVZ3yysb6i)
   - [Solutions](https://colab.research.google.com/drive/1aoizkC6QtcFmNbvAgAyEhXKGPVesjc3D)
 - Lab 4 
   - [Prompt](https://colab.research.google.com/drive/1S-wa1D5mnQV_ruzeqDQ_QR7pIJW1c_k6?usp=sharing)
