@@ -13,7 +13,7 @@
 - Lab 3
   - Data: see Canvas; data cannot be posted
   - [Prompt](https://colab.research.google.com/drive/1Hl5vhyi-s9womluj5wDI43vTq44DhT_-#scrollTo=qNtVZ3yysb6i)
-  - [Solutions](https://colab.research.google.com/drive/1aoizkC6QtcFmNbvAgAyEhXKGPVesjc3D)
+  - [Solutions](https://colab.research.google.com/drive/1yrfXVs9pUZRbLXaXJ2vS9b718zGTFQIC)
 - Lab 4 
   - [Prompt](https://colab.research.google.com/drive/1S-wa1D5mnQV_ruzeqDQ_QR7pIJW1c_k6?usp=sharing)
   - [Data](https://raw.githubusercontent.com/dansacks/gb740/main/lab4_data.csv)
