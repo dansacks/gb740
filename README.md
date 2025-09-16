@@ -2,6 +2,7 @@
 
 
 ## Labs
+- [NFL game data](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/game_data.csv) 
 - Lab 1
   - [prompt (notebook)](https://colab.research.google.com/drive/1yw5J_Hv2Lpr0kGubjhAgg_uQn8ZtqO0e?usp=sharing)
   - [Football score data](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/big_ten_2024_dataset.csv)
