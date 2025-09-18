@@ -20,10 +20,9 @@
   - [Data](https://raw.githubusercontent.com/dansacks/gb740/9df52578a1db3623261e3ace192b2937261d5686/constructco_incidents.csv)
   - [Solutions](https://colab.research.google.com/drive/1C-BALAt60udgfzOpFaq2oWQ4n7O1hmpy)
 - Lab 5 (for module 6):
-  - [Prompt (dollaholla)](https://colab.research.google.com/drive/1-BO_9UY53RGVyP2wHziqbrxNrurCvbTv?usp=sharing)
-  - [Data (dollaholla)](https://raw.githubusercontent.com/dansacks/gb740/main/dollaholla.csv)
-  - [Solutions (dollaholla)](https://colab.research.google.com/drive/11grE9_iEeWE-kju3I9idrNwdKUvmRCYn?usp=sharing)
-  - [Code (active zone)](https://colab.research.google.com/drive/1qhSkrAplZjzWoGYB0vcPbqVPrEWJW-Xn?usp=sharing)
+  - [Prompt](https://colab.research.google.com/drive/1-BO_9UY53RGVyP2wHziqbrxNrurCvbTv?usp=sharing)
+  - [Data](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/interest_rate_experiment.csv)
+  - [Solutions](https://colab.research.google.com/drive/11grE9_iEeWE-kju3I9idrNwdKUvmRCYn?usp=sharing)
 - Lab for module 7
   - [Part 1 data (bagel_donut_main.csv)](https://raw.githubusercontent.com/dansacks/gb740/main/bagel_donut_main.csv) (Source: [Levitt 2006](https://www.nber.org/papers/w12152).)
   - [Part 1 prompt](https://colab.research.google.com/drive/1UIQb7DBn6L1OB_pt2hLPhKLwYOpyxzqT?usp=sharing)
