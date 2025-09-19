@@ -39,7 +39,11 @@
 - Homework 2 data [clinicsales](https://raw.githubusercontent.com/dansacks/gb740/main/clinicsales.csv)
 - Homework 3 - See Canvas; data cannot be posted
 - Homework 4 data [upworthy questions](https://raw.githubusercontent.com/dansacks/gb740/main/upworthy_questions.csv)
-- Homework 5 data [wfh.csv](https://raw.githubusercontent.com/dansacks/gb740/main/wfh.csv)
+- Homework 5 data
+  - [text_promo_data.csv](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/text_promo_data.csv)
+  - [sb1.csv](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/sb1.csv)
+  - [sb2.csv](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/sb2.csv)
+  - [sb3.csv](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/sb3.csv)
 - Homework 6
   - Part 1 [RatingData.csv](https://raw.githubusercontent.com/dansacks/gb740/main/RatingData.csv),
   - part 2 [tips.csv](https://raw.githubusercontent.com/dansacks/gb740/main/tips.csv)
