@@ -27,7 +27,7 @@
   - [Solutions](https://colab.research.google.com/drive/11grE9_iEeWE-kju3I9idrNwdKUvmRCYn?usp=sharing)
 - Lab for module 7 - part 1
   - Prompt
-  - [hotel_spending.csv](xxx)
+  - [hotel_spending.csv](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/hotel_spend.csv)
   - [Metro area info](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/top50_metros_dates.csv)
   - Part 1 solutions
 - Lab for module 7 - part 2
@@ -47,7 +47,7 @@
   - [sb3.csv](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/sb3.csv)
 - Homework 6
   - Data:
-   - [hotel_spending.csv](xxx)
+   - [hotel_spending.csv]((https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/hotel_spend.csv)
    - [Metro area info](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/top50_metros_dates.csv)
   - Tips [tips.csv](https://raw.githubusercontent.com/dansacks/gb740/main/tips.csv)
    - The tip data are from [Haggan and Paci (2016)](https://www.aeaweb.org/articles?id=10.1257/app.6.3.1)
