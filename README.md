@@ -47,7 +47,7 @@
   - [sb3.csv](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/sb3.csv)
 - Homework 6
   - Data:
-   - [hotel_spending.csv]((https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/hotel_spend.csv)
+   - [hotel_spending.csv](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/hotel_spend.csv)
    - [Metro area info](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/top50_metros_dates.csv)
   - Tips [tips.csv](https://raw.githubusercontent.com/dansacks/gb740/main/tips.csv)
    - The tip data are from [Haggan and Paci (2016)](https://www.aeaweb.org/articles?id=10.1257/app.6.3.1)
