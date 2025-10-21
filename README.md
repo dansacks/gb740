@@ -29,7 +29,7 @@
   - [Prompt](https://colab.research.google.com/drive/1FG8xOKL1Z6Ul9wi0eEQb4AJ_rBFBkU4W?usp=sharing)
   - [hotel_spending.csv](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/hotel_spend.csv)
   - [Metro area info](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/top50_metros_dates.csv)
-  - Part 1 solutions
+  - [Part 1 solutions](https://colab.research.google.com/drive/1J03JllEOh2ZWoLRIRxCQU5WvNXiAPIKp?usp=sharing)
 - Lab for module 7 - part 2
   - [Part 2 data (incumbency advantage data)](https://raw.githubusercontent.com/rdpackages/rdrobust/master/Python/rdrobust_senate.csv) (Source: rdrobust packages).
   - [Part 2 prompt](https://colab.research.google.com/drive/1rKHBmbmVURx4Qjkpzx51NasjiXauvKa4)
