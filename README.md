@@ -20,7 +20,7 @@
 - Lab 4 
   - [Prompt](https://colab.research.google.com/drive/1yLO3QbBJw53AE7gCX1ZDhUDBJy-C9p4t?usp=sharing)
   - [Data](https://raw.githubusercontent.com/dansacks/gb740/5811a8f33ff017d2ca4a426d9a3a81c2c6fba7e9/constructco_incidents.csv)
-  - [Solutions](https://colab.research.google.com/drive/1C-BALAt60udgfzOpFaq2oWQ4n7O1hmpy)
+  - [Solutions](https://colab.research.google.com/drive/1pA7dYo9L0gqK3-UN84cVVgjeww3CRSPd?usp=sharing))
 - Lab 5 (for module 6):
   - [Prompt](https://colab.research.google.com/drive/1-BO_9UY53RGVyP2wHziqbrxNrurCvbTv?usp=sharing)
   - [Data](https://raw.githubusercontent.com/dansacks/gb740/refs/heads/main/interest_rate_experiment.csv)
