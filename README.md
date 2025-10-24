@@ -18,7 +18,7 @@
   - [Prompt](https://colab.research.google.com/drive/1Hl5vhyi-s9womluj5wDI43vTq44DhT_-#scrollTo=qNtVZ3yysb6i)
   - [Solutions](https://colab.research.google.com/drive/1yrfXVs9pUZRbLXaXJ2vS9b718zGTFQIC)
 - Lab 4 
-  - [Prompt](https://colab.research.google.com/drive/1S-wa1D5mnQV_ruzeqDQ_QR7pIJW1c_k6?usp=sharing)
+  - [Prompt](https://colab.research.google.com/drive/1yLO3QbBJw53AE7gCX1ZDhUDBJy-C9p4t?usp=sharing)
   - [Data](https://raw.githubusercontent.com/dansacks/gb740/9df52578a1db3623261e3ace192b2937261d5686/constructco_incidents.csv)
   - [Solutions](https://colab.research.google.com/drive/1C-BALAt60udgfzOpFaq2oWQ4n7O1hmpy)
 - Lab 5 (for module 6):
@@ -35,7 +35,7 @@
   - [Part 2 prompt](https://colab.research.google.com/drive/1rKHBmbmVURx4Qjkpzx51NasjiXauvKa4)
   - [Part 2 solutions](https://colab.research.google.com/drive/1yCqoJttfQO2vWe52dtEx0k9XE704lFVp?usp=sharing)
   
-## Homework 
+## Homework data
 - Homework 1 data [retaildata](https://raw.githubusercontent.com/dansacks/gb740/main/retaildata.csv)
 - Homework 2 data [clinicsales](https://raw.githubusercontent.com/dansacks/gb740/main/clinicsales.csv)
 - Homework 3 - See Canvas; data cannot be posted
