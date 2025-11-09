@@ -12,11 +12,11 @@
 - Lab 2
   - Data: See Canvas; data cannot be posted.
   - [prompt (notebook)](https://colab.research.google.com/drive/1sRlMUYSxeqtuLcaBzRtvDKXJu_bdmOMC)
-  - [solution notebook](https://colab.research.google.com/drive/1L4VUGIm1lnVgSsoS8QrWKFY4pWyHuzdV) 
+  - [solution notebook](https://colab.research.google.com/drive/1L4VUGIm1lnVgSsoS8QrWKFY4pWyHuzdV?usp=sharing)
 - Lab 3
   - Data: see Canvas; data cannot be posted
-  - [Prompt](https://colab.research.google.com/drive/1Hl5vhyi-s9womluj5wDI43vTq44DhT_-#scrollTo=qNtVZ3yysb6i)
-  - [Solutions](https://colab.research.google.com/drive/1yrfXVs9pUZRbLXaXJ2vS9b718zGTFQIC)
+  - [Prompt](https://colab.research.google.com/drive/1Hl5vhyi-s9womluj5wDI43vTq44DhT_-?usp=sharing)
+  - [Solutions](https://colab.research.google.com/drive/1yrfXVs9pUZRbLXaXJ2vS9b718zGTFQIC?usp=sharing)
 - Lab 4 
   - [Prompt](https://colab.research.google.com/drive/1yLO3QbBJw53AE7gCX1ZDhUDBJy-C9p4t?usp=sharing)
   - [Data](https://raw.githubusercontent.com/dansacks/gb740/5811a8f33ff017d2ca4a426d9a3a81c2c6fba7e9/constructco_incidents.csv)
